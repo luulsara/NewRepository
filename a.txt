@@ -2,4 +2,4 @@ this is from remote repository change
 new file in qa branch
 from local repository
 another flie change
-add both
+
